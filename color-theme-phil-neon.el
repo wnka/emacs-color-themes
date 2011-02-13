@@ -3,6 +3,9 @@
 
 (defun color-theme-phil-neon ()
   "Color theme by Phil Piwonka, based off monokai textmate theme.  BITE!  philpiwonka@gmail.com"
+  "Credit where credit is due:"
+  "  Original Textmate theme: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/"
+  "  Emacs starting point from here: http://jaguilar.posterous.com/i-get-so-tired-of-searching-fo"
 ;      Magenta: #F92672
 ;      Blue: #66D9EF
 ;      Dark grey: #75715E
