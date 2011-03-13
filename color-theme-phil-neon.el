@@ -61,6 +61,8 @@
 
      (minibuffer-prompt ((t (:inherit wnka-orange-face))))
 
+     (twittering-username-face ((t (:inherit wnka-green-face))))
+     (twittering-uri-face ((t (:inherit wnka-darkgrey-face))))
      (org-hide ((t (:foreground "#272822"))))
      (org-link ((t (:underline t :inherit wnka-green-face))))
      (org-done ((t (:bold t :foreground "OrangeRed1" :background "OrangeRed4" :box (:line-width 1 :style released-button)))))
